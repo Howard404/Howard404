@@ -2,8 +2,8 @@
 
 ## Education
 
-Associates in Arts and Science
-Computer Science
+- Associates in Arts and Science
+- Computer Science
 
 ## Skills
 
