@@ -11,7 +11,7 @@ This has lead me down the road to Front-end development and even now I am still 
 ## Education
 
 - Associates in Arts and Science
-- in Computer Science
+- Bachelor of Computer Science
 
 ## Skills
 
@@ -28,6 +28,7 @@ In Development: [Single Pay News](singlepaynew.com)
 Finished Projects: [Rice Band](riceband.com)
 
 ## Picture of Me
+
 <!-- ![Me](images/IMG_1127.JPG) -->
 
 <img src="images/IMG_1127.JPG" alt="picture of me" style="width:300px;"/>
