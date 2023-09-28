@@ -8,7 +8,7 @@ I am currently a bass player for a band called Rice, and we have been together f
 In order to promote the band, I build a basic single page website for promoting our music, shows, and ourselves.
 This has lead me down the road to Front-end development and even now I am still eager to learn more about what the field has to offer.
 
-![Aquaman](https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif)
+![Driving Dog](https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.gif)
 
 ## Education
 
