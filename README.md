@@ -1,6 +1,6 @@
 # Grant Howard
 
-## Bio
+## Biography
 
 Hi 👋 my name is Grant Howard and I am a computer science major here at Eastern Washington University.
 When I am not in university, I tend to focus a lot of my time on music.
