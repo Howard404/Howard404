@@ -25,8 +25,6 @@ This has lead me down the road to Front-end development and even now I am still 
 
 ## Projects
 
-In Development: [Single Pay News](https://www.singlepaynews.com/)
-
 Finished Projects: [Rice Band](https://riceband.com/)
 
 ## Picture of Me
